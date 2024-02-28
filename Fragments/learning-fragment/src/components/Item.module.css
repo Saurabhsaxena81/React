@@ -1,0 +1,10 @@
+.kg-item {
+  color: red;
+  text-align: center;
+  text-shadow: 1px 2px 3px rgb(207, 148, 148);
+  font-family: sans-serif;
+  background-color: antiquewhite;
+}
+.button {
+  float: right;
+}
